@@ -1,3 +1,11 @@
+This Site has been built by Tristan Leech as a project under Open Window
+
+To set up the file run 'npx start' in the terminal, after ensuring that node and react are correctly installed on the test device.
+
+I've built this page using the 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
